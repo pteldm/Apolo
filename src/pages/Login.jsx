@@ -43,8 +43,8 @@ export default function Login() {
         
         {/* Cabeçalho */}
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-white mb-2">Apolo + Clave</h1>
-          <p className="text-gray-400">Plataforma Integrada da Cena Musical</p>
+          <h1 className="text-3xl font-bold text-white mb-2">Apolo</h1>
+          <p className="text-gray-400">Plataforma de Gestão</p>
         </div>
 
         {/* Caixa de Erro */}
